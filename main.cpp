@@ -1,3 +1,5 @@
+//Write a program that prompts for metric weight and height and outputs the BMI with two decimal places.
+
 #include <iostream>
 #include <iomanip>
 
